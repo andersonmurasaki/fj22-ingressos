@@ -1,4 +1,4 @@
-package br.com.caelum.ingresso.model.desconto;
+package br.com.caelum.ingresso.model.descontos;
 
 import java.math.BigDecimal;
 import java.time.Duration;
